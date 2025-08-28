@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "76dda2bc1bb64761ca71f036c5e0bb4026e0aa76",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-28T03:10:32.000Z",
       "message": "feat: Funcionalidad de cualquier multiplo de 3 y se arreglo un detalle del import",
-      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/76dda2bc1bb64761ca71f036c5e0bb4026e0aa76"
     },
     "stats": {
       "total": 19,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-28T03:17:00.000Z",
+      "message": "feat:Cualquier multiplo de 5",
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 16,
+      "deletions": 1,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
