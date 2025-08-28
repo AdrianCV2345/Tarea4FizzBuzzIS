@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-28T03:01:27.000Z",
+      "message": "feat: Se agrego la funcionalidad cualquier numero que no es multiplo de 3 y 5",
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 23,
+      "deletions": 17,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
