@@ -1,4 +1,4 @@
-import  convertirFizzBuzz from "./src/Fizzbuzz.js";
+import  {convertirFizzBuzz,fizzBuzzCadena} from "./FizzBuzz.js";
 
 describe("Fizzbuzz", () =>{
 it("debe convertir un numero que no es multiplo de 3 ni 5", () => {
@@ -43,5 +43,11 @@ it("debe convertir un numero multiplo de 5 a buzz", () => {
 describe("Fizzbuzz", () =>{
 it("debe convertir un numero multiplo de 5 y de 3 a FizzBuzz", () => {
   expect (convertirFizzBuzz(15)).toEqual("FizzBuzz");
+});
+});
+
+describe("Fizzbuzz", () =>{
+it("debe devolver una cadena en formato FizzBuzz", () => {
+  expect (fizzBuzzCadena(15)).toEqual("1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, FizzBuzz");
 });
 });

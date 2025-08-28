@@ -6,4 +6,13 @@ function convertirFizzBuzz(n){
 }
 
 
-export  default convertirFizzBuzz;
+function fizzBuzzCadena(n){
+ let cadena = "";
+     for(let i = 1; i <= n; i++){
+         cadena += convertirFizzBuzz(i);
+         if(i < n) cadena += ", ";
+     }
+     return cadena;}
+
+
+export  {convertirFizzBuzz, fizzBuzzCadena};

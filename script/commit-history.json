@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "29080457fdd4ec386b1382ee5d1fabcb7da2fb22",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-28T03:20:16.000Z",
       "message": "feat:Cualquier multiplo de 3 y 5 se convierte en FizzBuzz",
-      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/29080457fdd4ec386b1382ee5d1fabcb7da2fb22"
     },
     "stats": {
       "total": 9,
@@ -74,5 +74,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-28T03:23:54.000Z",
+      "message": "feat:Todos los numeros puestos en una cadena",
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 17,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
