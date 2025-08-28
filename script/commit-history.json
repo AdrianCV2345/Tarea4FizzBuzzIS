@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "936cd6e8d7db98032a5216659c3704c19f304c7c",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-28T03:01:27.000Z",
       "message": "feat: Se agrego la funcionalidad cualquier numero que no es multiplo de 3 y 5",
-      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/936cd6e8d7db98032a5216659c3704c19f304c7c"
     },
     "stats": {
       "total": 40,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-28T03:10:32.000Z",
+      "message": "feat: Funcionalidad de cualquier multiplo de 3 y se arreglo un detalle del import",
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 17,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
