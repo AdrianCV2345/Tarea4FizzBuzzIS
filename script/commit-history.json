@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d1fe826ff951cfcf52b07d89958114e5646785a4",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-28T03:17:00.000Z",
       "message": "feat:Cualquier multiplo de 5",
-      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/d1fe826ff951cfcf52b07d89958114e5646785a4"
     },
     "stats": {
       "total": 17,
@@ -55,5 +55,24 @@
     "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-28T03:20:16.000Z",
+      "message": "feat:Cualquier multiplo de 3 y 5 se convierte en FizzBuzz",
+      "url": "https://github.com/AdrianCV2345/Tarea4FizzBuzzIS/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2025-08-28"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
